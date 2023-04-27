@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Thiago Herculano
 
-- 🔭 Hoje Estou estagiando como suporte
+- 🔭 Hoje Estou Trabalhando Como GMUD e PBI
 - 🌱 Estudando Analise e desenvolvimento de sistemas
 - 📫 Contate-me no email Thiagoherculan@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/thiagoherculano">
